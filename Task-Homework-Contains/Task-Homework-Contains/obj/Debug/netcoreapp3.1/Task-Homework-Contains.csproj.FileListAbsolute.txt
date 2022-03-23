@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.exe
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.deps.json
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.runtimeconfig.json
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.runtimeconfig.dev.json
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.dll
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\bin\Debug\netcoreapp3.1\Task-Homework-Contains.pdb
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.AssemblyInfo.cs
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.dll
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.pdb
+C:\Users\user\Desktop\Task-Homework-Contains\Task-Homework-Contains\obj\Debug\netcoreapp3.1\Task-Homework-Contains.genruntimeconfig.cache
